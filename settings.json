@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "Spectra_Admin_4155",
+    "password": "ilovespectrasmp",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "SpectraSMP.aternos.me",
+    "port":28563,
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "yo",
+        "ok",
+        "hi"
       ]
     },
     "chat-log": true,
