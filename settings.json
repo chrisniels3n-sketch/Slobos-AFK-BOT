@@ -8,7 +8,7 @@
   "server": {
     "ip": "SpectraSMP.aternos.me",
     "port":28563,
-    "version": "1.21.10"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
